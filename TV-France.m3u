@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/france.xml.gz"
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France" tvg-shift="+2",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France" tvg-shift="+2",France 2
+#EXTINF:-1 tvg-id="France 2.fr" tvg-name="France 2" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France" tvg-shift="+2",France 2
 http://gratuittv.free.fr/Files/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="TV France" tvg-shift="+2",France 3
+#EXTINF:-1 tvg-id="France 3.fr" tvg-name="France 3" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="TV France" tvg-shift="+2",France 3
 http://gratuittv.free.fr/Files/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France" tvg-shift="+2",France 5
+#EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France" tvg-shift="+2",France 5
 http://gratuittv.free.fr/Files/france5/live/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwia" group-title="TV France" tvg-shift="+2",M6
 https://raw.githubusercontent.com/RodriPTV/TV-Rodri/main/playlist_M6.m3u8
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France" tvg-shift="+2",NRJ12
 http://gratuittv.free.fr/Files/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France" tvg-shift="+2",France 4
+#EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France" tvg-shift="+2",France 4
 http://gratuittv.free.fr/Files/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France" tvg-shift="+2",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
