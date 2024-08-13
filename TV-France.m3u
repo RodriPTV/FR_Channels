@@ -26,7 +26,7 @@ https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TV France" tvg-shift="+2",CSTAR
 http://gratuittv.free.fr/Files/cstar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France" tvg-shift="+2",Gulli
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'équipe 21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France" tvg-shift="+2",L'équipe 21
 http://gratuittv.free.fr/Files/lequipe/live/playlist.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France" tvg-shift="+2",6ter
