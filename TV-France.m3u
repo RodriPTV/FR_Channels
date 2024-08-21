@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France" tvg-shift="+2",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France" tvg-shift="+2",NRJ12
-http://gratuittv.free.fr/Files/nrj12/live/playlist.m3u8
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="France 4.fr" tvg-name="France 4" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France" tvg-shift="+2",France 4
 http://gratuittv.free.fr/Files/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France" tvg-shift="+2",BFM TV
