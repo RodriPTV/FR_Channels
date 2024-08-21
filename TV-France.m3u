@@ -8,7 +8,7 @@ http://gratuittv.free.fr/Files/france3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="France 5.fr" tvg-name="France 5" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France" tvg-shift="+2",France 5
 http://gratuittv.free.fr/Files/france5/live/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwia" group-title="TV France" tvg-shift="+2",M6
-https://raw.githubusercontent.com/RodriPTV/TV-Rodri/main/Groupe%20M6/M6/M6.m3u8
+http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France" tvg-shift="+2",C8
 http://gratuittv.free.fr/Files/c8/live/playlist.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France" tvg-shift="+2",W9
